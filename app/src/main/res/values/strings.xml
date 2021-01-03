@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CarWashApplication</string>
+    <string name="signin">SignIn</string>
 </resources>
